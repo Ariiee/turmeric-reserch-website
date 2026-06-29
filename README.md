@@ -3,10 +3,6 @@
 A web-based research database for profiling the concentration of minor and trace elements in raw and branded turmeric powders, backed by Instrumental Neutron Activation Analysis (INAA) conducted using the Apsara-U nuclear research reactor at BARC, Mumbai.
 
 
-Based on the research paper: Quantification of minor and trace elements in raw and branded turmeric using INAA utilizing the Apsara-U reactor
-Made by Arpita Sharma
-
-
 
 
 📋 Overview
