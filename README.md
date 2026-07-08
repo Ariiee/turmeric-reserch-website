@@ -1,7 +1,6 @@
 # **🌿 Turmeric Forensic Element Analysis Portal**
 
-A web-based research database for profiling the concentration of minor and trace elements in raw and branded turmeric powders, backed by Instrumental Neutron Activation Analysis (INAA) conducted using the Apsara-U nuclear research reactor at BARC, Mumbai.
-
+A web-based research database for profiling the concentration of minor and trace elements in raw and branded turmeric powders.
 
 
 
@@ -116,17 +115,6 @@ turmeric reserch website/
     ├── raw_turmeric.png        # Raw turmeric specimen image
     ├── vegetable_turmeric.png  # Vegetable turmeric image
     └── gamma_spectrum.png      # Gamma spectrum reference image
-
-
-🧪 INAA Methodology (6 Steps)
-
-
-Sample Collection — Raw, vegetable, and branded turmeric from markets in West Bengal and Delhi NCR
-Drying & Preparation — Washing, slicing, air-drying, and oven-drying
-Grinding & Foil Wrapping — Powdered into 75–100 mg aliquots, wrapped in high-purity aluminum foil
-Neutron Irradiation — 5 hours at ~10¹³ n/cm²/s thermal flux in the Apsara-U reactor (BARC, Mumbai)
-Gamma Spectroscopy — After 1-week cooling, measured with HPGe detector + 8K multichannel analyzer
-Concentration Calculation — Computed via PHAST software relative to Polish Herbs CRM standards
 
 
 
